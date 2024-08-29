@@ -10,14 +10,14 @@ Descrição do arquivo
 ## 🧮 Dados (arquivos contendo dados, seja csv, xlsx ou json)
 Descrção do arquivo de dados
 
-## :computer: `Códigos`
-Descrição dos códigos
-
 ### Dicionário de Dados
 O dicionário de dados serve para descrever as tabelas e quaisquer outros dados que ficarão disponíveis.
 | Coluna             | Descrição |
 |--------            |-----------|
 | Etiqueta da coluna <br>(nome exatamente igual ao da coluna da tabela) | descrição da coluna -> o que é aquele dado? |
+
+## :computer: `Códigos`
+Descrição dos códigos
 
 ---
 
