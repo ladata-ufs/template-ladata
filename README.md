@@ -8,7 +8,7 @@ Descrição da pasta
 Descrição do arquivo
 
 ## 🧮 Dados (arquivos contendo dados, seja csv, xlsx ou json)
-Descrção do arquivo de dados
+Descrição do arquivo de dados
 
 ### Dicionário de Dados
 O dicionário de dados serve para descrever as tabelas e quaisquer outros dados que ficarão disponíveis.
