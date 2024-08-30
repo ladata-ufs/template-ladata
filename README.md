@@ -1,23 +1,22 @@
 # Template de repositório
-Descrição
+Esse repositório serve como um guia para a elaboração de outros repositórios no GitHub da LADATA. A estrutura presente aqui pode ser adaptada a realidade de cada projeto, porém deve seguir ao máximo a base aqui presente (como ícones para arquivos, pastas, dados, os nomes das pastas, modelos de README e afins).
+> [!IMPORTANT]
+> **Todo repositório** deve ter:
+> * README principal;
+> * Nome das pessoas (com link para o GitHub delas) que colaboraram para o projeto no rodapé do README principal;*
+> * README em todas as subpastas;
+>
+> *Sempre que possível, criar um arquivo CITATION.cff para que o repositório possa ser citado em produções técnico-científicas.
+Começando por esse README da pasta principal, ele deve conter o título do projeto/repositório, uma breve descrição, informações sobre cada uma das pastas e arquivos aqui presentes e exibir o nome de cada pessoa que colaborou com o projeto.
 
-## :file_folder: Pasta
-Descrição da pasta
+## :file_folder: code
+A pasta code serve para armazenar todos os códigos utilizados em um projeto.
 
-## :page_facing_up: Arquivo (markdown que não seja o README, pdfs e afins)
-Descrição do arquivo
+## :file_folder: data
+Na data devem estar todos os dados utilizados, seja csv, xlsx, json, etc.
 
-## 🧮 Dados (arquivos contendo dados, seja csv, xlsx ou json)
-Descrição do arquivo de dados
-
-### Dicionário de Dados
-O dicionário de dados serve para descrever as tabelas e quaisquer outros dados que ficarão disponíveis.
-| Coluna             | Descrição |
-|--------            |-----------|
-| Etiqueta da coluna <br>(nome exatamente igual ao da coluna da tabela) | descrição da coluna -> o que é aquele dado? |
-
-## :computer: `Códigos`
-Descrição dos códigos
+## :file_folder: docs
+A docs contém toda a documentação do projeto, sejam descrições, tutoriais, guias ou relatórios.
 
 ---
 
