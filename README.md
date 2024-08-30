@@ -7,6 +7,7 @@ Esse repositório serve como um guia para a elaboração de outros repositórios
 > * README em todas as subpastas;
 >
 > *Sempre que possível, criar um arquivo CITATION.cff para que o repositório possa ser citado em produções técnico-científicas.
+
 Começando por esse README da pasta principal, ele deve conter o título do projeto/repositório, uma breve descrição, informações sobre cada uma das pastas e arquivos aqui presentes e exibir o nome de cada pessoa que colaborou com o projeto.
 
 ## :file_folder: code
